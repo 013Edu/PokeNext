@@ -28,4 +28,9 @@ Projeto se basea em uma pokedex, que contém centenas de pokemons que vocè pode
 ## Desktop
 
 
+![pokemon](https://user-images.githubusercontent.com/91925011/202859272-3be3630b-a736-42cd-951f-73f88b6ecc48.png)
 
+
+## Projeto
+
+Você pode acessar por: 
